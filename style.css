@@ -43,7 +43,8 @@
   color: #fff4e3;
 }
 .navigation a:hover {
-  border-bottom: 1px solid #5d5d5a;
+  color: #fff4e3;
+  border-bottom: 1px solid #fff4e3;
 }
 
 /* HEADER ENDS HERE */
